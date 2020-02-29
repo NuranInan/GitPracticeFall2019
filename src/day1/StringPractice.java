@@ -5,5 +5,7 @@ public class StringPractice {
         System.out.println("Hello Word");
         String str = "Java is fun!";
         System.out.println(str);
+        String msg = "I have fun";
+        String conct = str+msg;
     }
 }
