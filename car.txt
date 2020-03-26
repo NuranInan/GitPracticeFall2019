@@ -6,3 +6,4 @@ Tesla
 Mercedes 5502
 Kia Optima
 Lexus Gx470
+Subaru MAX 571
